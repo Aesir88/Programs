@@ -1,0 +1,30 @@
+
+@media screen (min-width: 320px) and (max-width: 425px){
+    p.carousel-caption {
+        color:red;
+    }
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.text {
+    color: red;
+}
+body {
+  background-color:white;
+      }
+.jumbotron {
+  text-align: center;
+  font-size: 50px;
+  font-family: cursive;;
+  color: White;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+}
